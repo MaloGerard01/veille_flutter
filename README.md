@@ -1,6 +1,6 @@
 # Veille Flutter Package Camera
 
-Cette application est une demonstration du package Camera, permettant d'utiliser l'appareil photo d'un téléphone portable
+Cette application est une démonstration du package Camera, permettant d'utiliser l'appareil photo d'un téléphone portable
 
 ## Installation
 
