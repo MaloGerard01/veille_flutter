@@ -22,7 +22,7 @@ Utilisez la commande suivante pour exécuter l'application :
 
 ## Utilisation
 
-L'application permet de prendre une photo et de l'afficher a l'écran.
+L'application permet de prendre une photo et de l'afficher à l'écran.
 
 Pour prendre une photo, un bouton vert se trouve en bas de l'écran, en dessous un bouton permettant d'alterner entre
 l'appareil avant et arrière du téléphone, si celui-ci possède deux appareils.
